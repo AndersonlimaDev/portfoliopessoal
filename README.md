@@ -8,4 +8,4 @@ para aprimorar meu conhecimento em Front-End
 
 Feito o Deplou no netlify e pode ser acessado pelo link abaixo:
 
-https://andersonlimadev.netlify.app/
+https://andersonlimadev.com.br
